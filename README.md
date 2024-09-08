@@ -22,6 +22,7 @@ Contributions to this project are welcome! Please review the contributing guidel
 ## Visit Us
 
 For more detailed guides and professional Scalp Micropigmentation services, visit our website: [Premier SMP](https://www.orlandoscalpmicropigmentation.com).
+<a href="https://example.com" rel="follow">Link Text</a>
 
 ## License
 
